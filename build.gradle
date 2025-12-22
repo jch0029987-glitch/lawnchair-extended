@@ -278,23 +278,23 @@ android {
         }
 
         github {
-            applicationId 'app.lawnchair'
+            applicationId 'com.jeremy.lawnchair'
             dimension "channel"
         }
 
         nightly {
-            applicationId 'app.lawnchair.nightly'
+            applicationId 'com.jeremy.lawnchair.nightly'
             dimension "channel"
         }
 
         play {
-            applicationId "app.lawnchair.play"
+            applicationId "com.jeremy.lawnchair.play"
             dimension "channel"
             isDefault true
         }
 
         configureEach {
-            resValue("string", "launcher_component", "${applicationId}/app.lawnchair.LawnchairLauncher")
+            resValue("string", "launcher_component", "${applicationId}/com.jeremy.lawnchair.LawnchairLauncher")
         }
     }
 

@@ -49,10 +49,10 @@
 }
 
 # Lawnchair specific rules.
--keep class app.lawnchair.LawnchairProto$* { *; }
--keep class app.lawnchair.LawnchairApp { *; }
--keep class app.lawnchair.LawnchairLauncher { *; }
--keep class app.lawnchair.compatlib.** { *; }
+-keep class com.jeremy.lawnchair.LawnchairProto$* { *; }
+-keep class com.jeremy.lawnchair.LawnchairApp { *; }
+-keep class com.jeremy.lawnchair.LawnchairLauncher { *; }
+-keep class com.jeremy.lawnchair.compatlib.** { *; }
 -keep class android.view.** { *; }
 
 -keep class com.google.protobuf.Timestamp { *; }
