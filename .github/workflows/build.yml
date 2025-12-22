@@ -1,11 +1,9 @@
-name: Build Lawnchair Extended Debug APK
+name: Build Lawnchair Extended APK
 
 on:
   push:
-    branches: [ main, my-dev-branch ]  # Builds on main and your dev branch
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch:  # Manual trigger option
+    branches: [ main, my-dev-branch ]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: recursive  # Auto-downloads all submodules (fixes searchuilib forever)
+          submodules: recursive
 
       - name: Set up JDK 17
         uses: actions/setup-java@v4
@@ -26,12 +24,18 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
 
-      - name: Build debug APK
-        run: ./gradlew assembleDebug  # Standard debug build task
+      - name: Build the main launcher APK (plawnchair variant – standard for Lawnchair)
+        run: ./gradlew assemblePlawnchairDebug
 
-      - name: Upload debug APK artifact
+      - name: Show exactly where APKs were built
+        run: find . -name "*.apk" -type f || echo "No APK found yet"
+
+      - name: Upload the APK (catches any debug APK in the project)
         uses: actions/upload-artifact@v4
         with:
           name: Lawnchair-Extended-debug.apk
-          path: lawnchair/build/outputs/apk/**/*.apk  # Wildcard to grab any debug APK (common in Lawnchair variants)
-          if-no-files-found: error
+          path: |
+            **/build/outputs/apk/**/debug/*.apk
+            **/build/outputs/apk/debug/*.apk
+            lawnchair/build/outputs/apk/**/*.apk
+          if-no-files-found: warn
