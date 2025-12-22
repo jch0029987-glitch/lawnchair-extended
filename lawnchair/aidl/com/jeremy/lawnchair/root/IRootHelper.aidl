@@ -1,4 +1,4 @@
-package app.lawnchair.root;
+package com.jeremy.lawnchair.root;
 
 interface IRootHelper {
     oneway void goToSleep();
