@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.destinations
+package com.jeremy.lawnchair.ui.preferences.destinations
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember

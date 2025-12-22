@@ -1,4 +1,4 @@
-package app.lawnchair.util
+package com.jeremy.lawnchair.util
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect

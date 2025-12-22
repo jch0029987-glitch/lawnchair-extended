@@ -1,4 +1,4 @@
-package app.lawnchair.smartspace.model
+package com.jeremy.lawnchair.smartspace.model
 
 import android.content.Context
 import android.os.Build

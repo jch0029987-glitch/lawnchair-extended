@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components.colorpreference.pickers
+package com.jeremy.lawnchair.ui.preferences.components.colorpreference.pickers
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.padding

@@ -1,4 +1,4 @@
-package app.lawnchair.theme
+package com.jeremy.lawnchair.theme
 
 import android.content.Context
 import com.android.launcher3.R

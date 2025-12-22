@@ -1,4 +1,4 @@
-package app.lawnchair.ui.util
+package com.jeremy.lawnchair.ui.util
 
 import android.content.Context
 import android.view.View

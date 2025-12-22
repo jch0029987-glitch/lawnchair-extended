@@ -1,4 +1,4 @@
-package app.lawnchair.theme
+package com.jeremy.lawnchair.theme
 
 @JvmInline
 value class UiColorMode(val mode: Int) {

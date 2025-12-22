@@ -1,4 +1,4 @@
-package app.lawnchair.nexuslauncher
+package com.jeremy.lawnchair.nexuslauncher
 
 import android.annotation.SuppressLint
 import android.content.Context

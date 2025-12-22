@@ -1,4 +1,4 @@
-package app.lawnchair.data
+package com.jeremy.lawnchair.data
 
 import androidx.room.Database
 import androidx.room.Room

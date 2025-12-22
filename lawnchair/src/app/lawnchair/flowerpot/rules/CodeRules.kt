@@ -15,7 +15,7 @@
  *     along with Lawnchair Launcher.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package app.lawnchair.flowerpot.rules
+package com.jeremy.lawnchair.flowerpot.rules
 
 import android.content.pm.ApplicationInfo
 import app.lawnchair.util.hasFlag

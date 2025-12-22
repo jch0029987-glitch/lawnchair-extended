@@ -1,4 +1,4 @@
-package app.lawnchair.icons
+package com.jeremy.lawnchair.icons
 
 import android.graphics.drawable.Drawable
 

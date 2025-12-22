@@ -1,4 +1,4 @@
-package app.lawnchair.qsb.providers
+package com.jeremy.lawnchair.qsb.providers
 
 import app.lawnchair.qsb.ThemingMethod
 import com.android.launcher3.R

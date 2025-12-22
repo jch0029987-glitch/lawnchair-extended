@@ -1,4 +1,4 @@
-package app.lawnchair.ui.util
+package com.jeremy.lawnchair.ui.util
 
 import com.android.launcher3.BuildConfig
 

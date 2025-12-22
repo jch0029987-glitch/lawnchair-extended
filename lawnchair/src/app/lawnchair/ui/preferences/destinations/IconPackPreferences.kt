@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.ui.preferences.destinations
+package com.jeremy.lawnchair.ui.preferences.destinations
 
 import android.content.res.Configuration
 import android.graphics.drawable.Drawable

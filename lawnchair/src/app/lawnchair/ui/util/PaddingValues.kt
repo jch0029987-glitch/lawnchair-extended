@@ -1,4 +1,4 @@
-package app.lawnchair.ui.util
+package com.jeremy.lawnchair.ui.util
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.runtime.Composable

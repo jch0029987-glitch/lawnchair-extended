@@ -1,4 +1,4 @@
-package app.lawnchair.wallpaper
+package com.jeremy.lawnchair.wallpaper
 
 import androidx.annotation.IntDef
 

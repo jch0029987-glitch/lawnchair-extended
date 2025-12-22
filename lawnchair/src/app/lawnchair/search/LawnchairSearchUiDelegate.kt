@@ -1,4 +1,4 @@
-package app.lawnchair.search
+package com.jeremy.lawnchair.search
 
 import com.android.launcher3.allapps.ActivityAllAppsContainerView
 import com.android.launcher3.allapps.search.AllAppsSearchUiDelegate

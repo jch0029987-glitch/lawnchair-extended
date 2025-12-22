@@ -1,4 +1,4 @@
-package app.lawnchair.qsb.providers
+package com.jeremy.lawnchair.qsb.providers
 
 import app.lawnchair.animateToAllApps
 import app.lawnchair.preferences.PreferenceManager

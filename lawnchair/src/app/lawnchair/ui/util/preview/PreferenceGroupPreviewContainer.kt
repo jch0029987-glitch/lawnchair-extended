@@ -1,4 +1,4 @@
-package app.lawnchair.ui.util.preview
+package com.jeremy.lawnchair.ui.util.preview
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box

@@ -1,4 +1,4 @@
-package app.lawnchair.search.algorithms
+package com.jeremy.lawnchair.search.algorithms
 
 import android.content.Context
 import android.content.pm.ShortcutInfo

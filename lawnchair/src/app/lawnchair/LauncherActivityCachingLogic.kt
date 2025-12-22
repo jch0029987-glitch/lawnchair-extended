@@ -1,4 +1,4 @@
-package app.lawnchair
+package com.jeremy.lawnchair
 
 import android.content.Context
 import android.content.pm.LauncherActivityInfo

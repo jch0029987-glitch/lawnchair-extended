@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components.layout
+package com.jeremy.lawnchair.ui.preferences.components.layout
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.HorizontalDivider

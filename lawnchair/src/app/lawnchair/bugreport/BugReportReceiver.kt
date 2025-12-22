@@ -1,4 +1,4 @@
-package app.lawnchair.bugreport
+package com.jeremy.lawnchair.bugreport
 
 import android.app.Notification
 import android.app.NotificationManager

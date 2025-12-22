@@ -1,4 +1,4 @@
-package app.lawnchair.search.algorithms.data
+package com.jeremy.lawnchair.search.algorithms.data
 
 import android.annotation.DrawableRes
 import app.lawnchair.util.androidPkgTypes

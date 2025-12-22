@@ -1,4 +1,4 @@
-package app.lawnchair.preferences
+package com.jeremy.lawnchair.preferences
 
 import android.view.View
 import androidx.core.util.Consumer

@@ -1,4 +1,4 @@
-package app.lawnchair.gestures
+package com.jeremy.lawnchair.gestures
 
 import android.graphics.PointF
 import android.view.MotionEvent

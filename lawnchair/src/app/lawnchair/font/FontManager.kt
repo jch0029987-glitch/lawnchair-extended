@@ -1,4 +1,4 @@
-package app.lawnchair.font
+package com.jeremy.lawnchair.font
 
 import android.content.Context
 import android.graphics.Typeface

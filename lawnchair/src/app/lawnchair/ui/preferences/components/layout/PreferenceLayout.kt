@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.ui.preferences.components.layout
+package com.jeremy.lawnchair.ui.preferences.components.layout
 
 import androidx.compose.foundation.ScrollState
 import androidx.compose.foundation.layout.Arrangement

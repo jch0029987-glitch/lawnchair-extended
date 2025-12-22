@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.animation
+package com.jeremy.lawnchair.animation
 
 import android.util.ArrayMap
 import android.util.Log

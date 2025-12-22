@@ -1,4 +1,4 @@
-package app.lawnchair.smartspace
+package com.jeremy.lawnchair.smartspace
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter

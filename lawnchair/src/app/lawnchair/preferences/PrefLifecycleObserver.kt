@@ -1,4 +1,4 @@
-package app.lawnchair.preferences
+package com.jeremy.lawnchair.preferences
 
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner

@@ -1,4 +1,4 @@
-package app.lawnchair.gestures.handlers
+package com.jeremy.lawnchair.gestures.handlers
 
 import android.annotation.SuppressLint
 import android.content.Context

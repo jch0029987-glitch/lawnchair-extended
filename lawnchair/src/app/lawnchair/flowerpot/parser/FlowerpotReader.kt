@@ -15,7 +15,7 @@
  *     along with Lawnchair Launcher.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package app.lawnchair.flowerpot.parser
+package com.jeremy.lawnchair.flowerpot.parser
 
 import app.lawnchair.flowerpot.Flowerpot
 import app.lawnchair.flowerpot.FlowerpotFormatException

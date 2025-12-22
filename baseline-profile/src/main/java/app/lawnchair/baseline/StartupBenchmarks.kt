@@ -1,4 +1,4 @@
-package app.lawnchair.baseline
+package com.jeremy.lawnchair.baseline
 
 import androidx.benchmark.macro.BaselineProfileMode
 import androidx.benchmark.macro.CompilationMode

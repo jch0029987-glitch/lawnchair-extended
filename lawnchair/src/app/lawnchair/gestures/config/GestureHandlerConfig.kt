@@ -1,4 +1,4 @@
-package app.lawnchair.gestures.config
+package com.jeremy.lawnchair.gestures.config
 
 import android.content.Context
 import app.lawnchair.gestures.handlers.GestureHandler

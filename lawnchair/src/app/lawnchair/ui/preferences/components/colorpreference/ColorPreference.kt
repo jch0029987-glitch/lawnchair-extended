@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.ui.preferences.components.colorpreference
+package com.jeremy.lawnchair.ui.preferences.components.colorpreference
 
 import androidx.compose.foundation.clickable
 import androidx.compose.material3.Text

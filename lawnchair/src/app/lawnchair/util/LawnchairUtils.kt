@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.util
+package com.jeremy.lawnchair.util
 
 import android.annotation.SuppressLint
 import android.app.AlarmManager

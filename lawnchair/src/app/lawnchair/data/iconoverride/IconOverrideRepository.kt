@@ -1,4 +1,4 @@
-package app.lawnchair.data.iconoverride
+package com.jeremy.lawnchair.data.iconoverride
 
 import android.content.Context
 import app.lawnchair.data.AppDatabase

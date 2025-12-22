@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair
+package com.jeremy.lawnchair
 
 import android.animation.AnimatorSet
 import android.app.ActivityOptions

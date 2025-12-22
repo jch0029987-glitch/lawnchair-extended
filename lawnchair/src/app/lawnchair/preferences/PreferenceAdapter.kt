@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.preferences
+package com.jeremy.lawnchair.preferences
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect

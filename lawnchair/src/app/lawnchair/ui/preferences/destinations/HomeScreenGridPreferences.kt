@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.destinations
+package com.jeremy.lawnchair.ui.preferences.destinations
 
 import android.content.res.Configuration
 import androidx.compose.foundation.layout.Box

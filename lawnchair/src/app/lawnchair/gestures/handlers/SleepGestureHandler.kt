@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.gestures.handlers
+package com.jeremy.lawnchair.gestures.handlers
 
 import android.accessibilityservice.AccessibilityService
 import android.annotation.TargetApi

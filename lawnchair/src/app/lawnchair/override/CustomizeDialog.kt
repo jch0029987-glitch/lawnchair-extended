@@ -1,4 +1,4 @@
-package app.lawnchair.override
+package com.jeremy.lawnchair.override
 
 import android.app.Activity
 import android.graphics.drawable.Drawable

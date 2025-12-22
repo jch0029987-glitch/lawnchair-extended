@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.ui.preferences.about.acknowledgements
+package com.jeremy.lawnchair.ui.preferences.about.acknowledgements
 
 import android.content.Intent
 import androidx.compose.runtime.Composable

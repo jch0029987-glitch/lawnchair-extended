@@ -1,4 +1,4 @@
-package app.lawnchair.smartspace
+package com.jeremy.lawnchair.smartspace
 
 import android.annotation.SuppressLint
 import android.content.Context

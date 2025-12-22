@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components.controls
+package com.jeremy.lawnchair.ui.preferences.components.controls
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.Warning

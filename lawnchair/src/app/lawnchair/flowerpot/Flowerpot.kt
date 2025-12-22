@@ -15,7 +15,7 @@
  *     along with Lawnchair Launcher.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package app.lawnchair.flowerpot
+package com.jeremy.lawnchair.flowerpot
 
 import android.content.Context
 import app.lawnchair.flowerpot.parser.FlowerpotReader

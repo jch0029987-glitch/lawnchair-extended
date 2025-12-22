@@ -1,4 +1,4 @@
-package app.lawnchair.allapps
+package com.jeremy.lawnchair.allapps
 
 import android.animation.ValueAnimator
 import android.content.Context

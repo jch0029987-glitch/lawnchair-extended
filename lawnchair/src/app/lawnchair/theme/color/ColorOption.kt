@@ -1,4 +1,4 @@
-package app.lawnchair.theme.color
+package com.jeremy.lawnchair.theme.color
 
 import android.graphics.Color
 import androidx.compose.ui.res.stringResource

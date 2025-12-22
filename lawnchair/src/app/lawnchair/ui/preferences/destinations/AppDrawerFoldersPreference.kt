@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.destinations
+package com.jeremy.lawnchair.ui.preferences.destinations
 
 import android.util.Log
 import androidx.compose.foundation.clickable

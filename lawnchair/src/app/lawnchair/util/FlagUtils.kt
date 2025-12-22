@@ -1,4 +1,4 @@
-package app.lawnchair.util
+package com.jeremy.lawnchair.util
 
 infix fun Int.hasFlag(flag: Int): Boolean {
     return (this and flag) == flag

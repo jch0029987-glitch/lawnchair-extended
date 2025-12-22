@@ -1,4 +1,4 @@
-package app.lawnchair.search
+package com.jeremy.lawnchair.search
 
 import android.util.SparseIntArray
 import android.view.LayoutInflater

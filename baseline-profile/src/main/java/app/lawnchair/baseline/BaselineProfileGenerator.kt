@@ -1,4 +1,4 @@
-package app.lawnchair.baseline
+package com.jeremy.lawnchair.baseline
 
 import androidx.benchmark.macro.junit4.BaselineProfileRule
 import androidx.test.ext.junit.runners.AndroidJUnit4

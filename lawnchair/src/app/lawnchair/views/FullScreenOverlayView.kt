@@ -1,4 +1,4 @@
-package app.lawnchair.views
+package com.jeremy.lawnchair.views
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter

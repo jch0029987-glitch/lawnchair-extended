@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.about
+package com.jeremy.lawnchair.ui.preferences.about
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel

@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components.search
+package com.jeremy.lawnchair.ui.preferences.components.search
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column

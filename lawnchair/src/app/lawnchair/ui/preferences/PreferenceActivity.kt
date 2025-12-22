@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.ui.preferences
+package com.jeremy.lawnchair.ui.preferences
 
 import android.content.Context
 import android.content.Intent

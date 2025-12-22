@@ -1,4 +1,4 @@
-package app.lawnchair.root
+package com.jeremy.lawnchair.root
 
 import android.content.Intent
 import com.topjohnwu.superuser.ipc.RootService

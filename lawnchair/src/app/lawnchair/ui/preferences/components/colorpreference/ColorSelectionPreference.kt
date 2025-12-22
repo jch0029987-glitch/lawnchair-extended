@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components.colorpreference
+package com.jeremy.lawnchair.ui.preferences.components.colorpreference
 
 import android.content.Context
 import android.graphics.Color

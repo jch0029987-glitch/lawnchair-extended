@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.preferences2
+package com.jeremy.lawnchair.preferences2
 
 import android.content.Context
 import android.util.Log

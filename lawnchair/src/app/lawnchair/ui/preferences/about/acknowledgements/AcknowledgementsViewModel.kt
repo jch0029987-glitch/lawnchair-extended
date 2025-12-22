@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.about.acknowledgements
+package com.jeremy.lawnchair.ui.preferences.about.acknowledgements
 
 import android.app.Application
 import android.util.Log

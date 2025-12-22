@@ -1,4 +1,4 @@
-package app.lawnchair
+package com.jeremy.lawnchair
 
 import com.android.app.animation.Interpolators
 import com.android.launcher3.Launcher

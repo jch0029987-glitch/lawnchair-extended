@@ -1,4 +1,4 @@
-package app.lawnchair.util
+package com.jeremy.lawnchair.util
 
 import androidx.activity.OnBackPressedCallback
 import androidx.activity.compose.LocalOnBackPressedDispatcherOwner

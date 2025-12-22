@@ -15,7 +15,7 @@
  *     along with Lawnchair Launcher.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package app.lawnchair.font.googlefonts
+package com.jeremy.lawnchair.font.googlefonts
 
 import android.content.Context
 import android.content.res.Resources

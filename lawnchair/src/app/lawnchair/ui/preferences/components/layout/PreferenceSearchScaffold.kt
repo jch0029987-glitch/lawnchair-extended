@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components.layout
+package com.jeremy.lawnchair.ui.preferences.components.layout
 
 import androidx.activity.OnBackPressedDispatcher
 import androidx.activity.compose.LocalOnBackPressedDispatcherOwner

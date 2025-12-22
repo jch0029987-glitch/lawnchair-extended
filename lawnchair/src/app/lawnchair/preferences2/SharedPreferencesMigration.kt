@@ -16,7 +16,7 @@
  * Modifications copyright 2022 Lawnchair
  */
 
-package app.lawnchair.preferences2
+package com.jeremy.lawnchair.preferences2
 
 import android.content.Context
 import androidx.datastore.migrations.SharedPreferencesView

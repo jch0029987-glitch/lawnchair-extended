@@ -1,4 +1,4 @@
-package app.lawnchair.ui.popup
+package com.jeremy.lawnchair.ui.popup
 
 import android.view.View
 import androidx.annotation.DrawableRes

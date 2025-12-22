@@ -1,4 +1,4 @@
-package app.lawnchair.hotseat
+package com.jeremy.lawnchair.hotseat
 
 import android.content.Context
 import androidx.annotation.LayoutRes

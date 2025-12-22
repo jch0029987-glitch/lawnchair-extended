@@ -17,7 +17,7 @@
  *     along with Lawnchair Launcher.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package app.lawnchair.icons.shape
+package com.jeremy.lawnchair.icons.shape
 
 import android.graphics.Path
 import android.graphics.PointF

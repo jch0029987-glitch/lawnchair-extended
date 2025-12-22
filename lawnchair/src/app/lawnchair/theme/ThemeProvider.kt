@@ -1,4 +1,4 @@
-package app.lawnchair.theme
+package com.jeremy.lawnchair.theme
 
 import android.content.BroadcastReceiver
 import android.content.Context

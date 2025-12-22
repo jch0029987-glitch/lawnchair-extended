@@ -1,4 +1,4 @@
-package app.lawnchair.views.component
+package com.jeremy.lawnchair.views.component
 
 import android.content.Context
 import android.graphics.drawable.GradientDrawable

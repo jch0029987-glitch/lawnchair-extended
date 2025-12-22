@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.destinations
+package com.jeremy.lawnchair.ui.preferences.destinations
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.MaterialTheme

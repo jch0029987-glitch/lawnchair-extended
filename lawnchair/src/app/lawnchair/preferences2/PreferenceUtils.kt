@@ -1,4 +1,4 @@
-package app.lawnchair.preferences2
+package com.jeremy.lawnchair.preferences2
 
 import androidx.compose.runtime.Composable
 import androidx.lifecycle.compose.collectAsStateWithLifecycle

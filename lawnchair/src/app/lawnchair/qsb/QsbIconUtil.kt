@@ -1,4 +1,4 @@
-package app.lawnchair.qsb
+package com.jeremy.lawnchair.qsb
 
 import android.graphics.drawable.LayerDrawable
 import android.widget.ImageView

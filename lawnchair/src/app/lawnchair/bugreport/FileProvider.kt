@@ -1,4 +1,4 @@
-package app.lawnchair.bugreport
+package com.jeremy.lawnchair.bugreport
 
 import androidx.core.content.FileProvider
 

@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components.layout
+package com.jeremy.lawnchair.ui.preferences.components.layout
 
 import android.content.Context
 import androidx.compose.foundation.layout.Box

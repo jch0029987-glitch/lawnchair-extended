@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components
+package com.jeremy.lawnchair.ui.preferences.components
 
 import android.view.View
 import androidx.compose.animation.Crossfade

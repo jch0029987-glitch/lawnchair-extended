@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.about
+package com.jeremy.lawnchair.ui.preferences.about
 
 import app.lawnchair.util.kotlinxJson
 import kotlinx.serialization.SerialName

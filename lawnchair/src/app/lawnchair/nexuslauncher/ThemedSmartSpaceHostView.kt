@@ -1,4 +1,4 @@
-package app.lawnchair.nexuslauncher
+package com.jeremy.lawnchair.nexuslauncher
 
 import android.content.Context
 import android.graphics.Bitmap

@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.destinations
+package com.jeremy.lawnchair.ui.preferences.destinations
 
 import android.widget.Toast
 import androidx.compose.animation.core.animateFloatAsState

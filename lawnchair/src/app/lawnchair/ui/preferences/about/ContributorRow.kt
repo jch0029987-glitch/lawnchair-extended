@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.ui.preferences.about
+package com.jeremy.lawnchair.ui.preferences.about
 
 import android.content.Intent
 import androidx.compose.foundation.background

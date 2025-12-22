@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components.search
+package com.jeremy.lawnchair.ui.preferences.components.search
 
 import android.content.Context
 import androidx.compose.runtime.Composable

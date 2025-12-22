@@ -1,4 +1,4 @@
-package app.lawnchair.smartspace.provider
+package com.jeremy.lawnchair.smartspace.provider
 
 import android.app.Activity
 import android.content.Context

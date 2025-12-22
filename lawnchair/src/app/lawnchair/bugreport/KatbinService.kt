@@ -1,4 +1,4 @@
-package app.lawnchair.bugreport
+package com.jeremy.lawnchair.bugreport
 
 import app.lawnchair.util.kotlinxJson
 import kotlinx.serialization.Serializable

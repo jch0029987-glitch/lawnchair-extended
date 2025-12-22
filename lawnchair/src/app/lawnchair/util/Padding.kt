@@ -1,4 +1,4 @@
-package app.lawnchair.util
+package com.jeremy.lawnchair.util
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.WindowInsets

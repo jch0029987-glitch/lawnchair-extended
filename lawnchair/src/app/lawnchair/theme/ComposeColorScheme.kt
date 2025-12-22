@@ -1,4 +1,4 @@
-package app.lawnchair.theme
+package com.jeremy.lawnchair.theme
 
 import androidx.annotation.FloatRange
 import androidx.compose.material3.ColorScheme

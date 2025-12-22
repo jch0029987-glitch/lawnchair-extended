@@ -1,4 +1,4 @@
-package app.lawnchair.search.adapter
+package com.jeremy.lawnchair.search.adapter
 
 import android.content.res.ColorStateList
 import android.graphics.drawable.InsetDrawable

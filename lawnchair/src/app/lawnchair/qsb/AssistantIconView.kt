@@ -1,4 +1,4 @@
-package app.lawnchair.qsb
+package com.jeremy.lawnchair.qsb
 
 import android.annotation.SuppressLint
 import android.content.Context

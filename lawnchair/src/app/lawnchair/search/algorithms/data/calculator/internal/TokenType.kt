@@ -1,4 +1,4 @@
-package app.lawnchair.search.algorithms.data.calculator.internal
+package com.jeremy.lawnchair.search.algorithms.data.calculator.internal
 
 internal enum class TokenType {
 

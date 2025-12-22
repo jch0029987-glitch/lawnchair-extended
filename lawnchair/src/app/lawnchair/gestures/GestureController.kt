@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.gestures
+package com.jeremy.lawnchair.gestures
 
 import androidx.lifecycle.lifecycleScope
 import app.lawnchair.LawnchairApp

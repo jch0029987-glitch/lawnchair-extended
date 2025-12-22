@@ -1,3 +1,3 @@
-package app.lawnchair.root
+package com.jeremy.lawnchair.root
 
 class RootNotAvailableException : Exception()

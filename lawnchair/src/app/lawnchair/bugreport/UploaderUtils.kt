@@ -1,4 +1,4 @@
-package app.lawnchair.bugreport
+package com.jeremy.lawnchair.bugreport
 
 object UploaderUtils {
 

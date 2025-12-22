@@ -1,4 +1,4 @@
-package app.lawnchair.theme.color
+package com.jeremy.lawnchair.theme.color
 
 import dev.kdrag0n.colorkt.Color
 

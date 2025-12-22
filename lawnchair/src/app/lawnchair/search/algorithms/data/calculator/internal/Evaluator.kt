@@ -1,4 +1,4 @@
-package app.lawnchair.search.algorithms.data.calculator.internal
+package com.jeremy.lawnchair.search.algorithms.data.calculator.internal
 
 import app.lawnchair.search.algorithms.data.calculator.ExpressionException
 import app.lawnchair.search.algorithms.data.calculator.internal.TokenType.AMP_AMP

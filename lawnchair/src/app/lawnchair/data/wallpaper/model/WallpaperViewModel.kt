@@ -1,4 +1,4 @@
-package app.lawnchair.data.wallpaper.model
+package com.jeremy.lawnchair.data.wallpaper.model
 
 import android.app.Application
 import android.app.WallpaperManager

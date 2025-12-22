@@ -1,4 +1,4 @@
-package app.lawnchair.wallpaper
+package com.jeremy.lawnchair.wallpaper
 
 import android.app.WallpaperManager
 import android.content.Context

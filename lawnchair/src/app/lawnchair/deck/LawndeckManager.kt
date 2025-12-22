@@ -1,4 +1,4 @@
-package app.lawnchair.deck
+package com.jeremy.lawnchair.deck
 
 import android.content.Context
 import android.util.Log

@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.navigation
+package com.jeremy.lawnchair.ui.preferences.navigation
 
 import app.lawnchair.ui.preferences.components.search.SearchProviderId
 import app.lawnchair.ui.preferences.destinations.SearchRoute

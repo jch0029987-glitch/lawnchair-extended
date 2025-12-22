@@ -1,4 +1,4 @@
-package app.lawnchair.util
+package com.jeremy.lawnchair.util
 
 import com.android.quickstep.TaskUtils
 import com.android.systemui.shared.recents.model.Task

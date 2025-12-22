@@ -1,4 +1,4 @@
-package app.lawnchair.util
+package com.jeremy.lawnchair.util
 
 import android.net.Uri
 import androidx.core.content.FileProvider

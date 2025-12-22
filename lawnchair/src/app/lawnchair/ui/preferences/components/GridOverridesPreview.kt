@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components
+package com.jeremy.lawnchair.ui.preferences.components
 
 import androidx.compose.foundation.layout.ColumnScope
 import androidx.compose.foundation.layout.fillMaxSize

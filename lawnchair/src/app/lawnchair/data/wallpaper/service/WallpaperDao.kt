@@ -1,4 +1,4 @@
-package app.lawnchair.data.wallpaper.service
+package com.jeremy.lawnchair.data.wallpaper.service
 
 import androidx.room.Dao
 import androidx.room.Insert

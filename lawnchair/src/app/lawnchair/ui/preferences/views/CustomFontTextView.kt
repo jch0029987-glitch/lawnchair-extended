@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.views
+package com.jeremy.lawnchair.ui.preferences.views
 
 import android.content.Context
 import androidx.appcompat.widget.AppCompatTextView

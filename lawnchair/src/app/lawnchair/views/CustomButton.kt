@@ -1,4 +1,4 @@
-package app.lawnchair.views
+package com.jeremy.lawnchair.views
 
 import android.content.Context
 import android.util.AttributeSet

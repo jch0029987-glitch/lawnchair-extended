@@ -1,4 +1,4 @@
-package app.lawnchair.theme.drawable
+package com.jeremy.lawnchair.theme.drawable
 
 import android.content.Context
 import android.content.res.Resources

@@ -1,4 +1,4 @@
-package app.lawnchair.ui
+package com.jeremy.lawnchair.ui
 
 import android.util.TypedValue
 import android.widget.TextView

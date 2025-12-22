@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair
+package com.jeremy.lawnchair
 
 import android.accessibilityservice.AccessibilityService
 import android.accessibilityservice.AccessibilityServiceInfo

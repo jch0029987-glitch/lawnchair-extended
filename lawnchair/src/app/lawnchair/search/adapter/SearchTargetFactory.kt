@@ -1,4 +1,4 @@
-package app.lawnchair.search.adapter
+package com.jeremy.lawnchair.search.adapter
 
 import android.content.Context
 import android.content.Intent

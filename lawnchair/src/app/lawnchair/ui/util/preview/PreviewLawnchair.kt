@@ -1,4 +1,4 @@
-package app.lawnchair.ui.util.preview
+package com.jeremy.lawnchair.ui.util.preview
 
 import android.content.res.Configuration
 import androidx.compose.ui.tooling.preview.Preview

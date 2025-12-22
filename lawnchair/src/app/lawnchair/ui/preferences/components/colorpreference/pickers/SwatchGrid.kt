@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components.colorpreference.pickers
+package com.jeremy.lawnchair.ui.preferences.components.colorpreference.pickers
 
 import androidx.compose.animation.Crossfade
 import androidx.compose.foundation.background

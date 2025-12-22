@@ -1,4 +1,4 @@
-package app.lawnchair.smartspace.model
+package com.jeremy.lawnchair.smartspace.model
 
 data class SmartspaceTarget(
     val id: String,

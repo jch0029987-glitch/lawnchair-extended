@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.navigation
+package com.jeremy.lawnchair.ui.preferences.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect

@@ -1,4 +1,4 @@
-package app.lawnchair.search.algorithms.data.calculator
+package com.jeremy.lawnchair.search.algorithms.data.calculator
 
 import app.lawnchair.search.algorithms.data.calculator.internal.Evaluator
 import app.lawnchair.search.algorithms.data.calculator.internal.Expr

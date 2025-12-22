@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.data.liveinfo.model
+package com.jeremy.lawnchair.ui.preferences.data.liveinfo.model
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.BugReport

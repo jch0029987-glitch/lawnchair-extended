@@ -1,4 +1,4 @@
-package app.lawnchair.ui.util
+package com.jeremy.lawnchair.ui.util
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.SideEffect

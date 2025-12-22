@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.ui.theme
+package com.jeremy.lawnchair.ui.theme
 
 import android.graphics.Color
 import androidx.activity.ComponentActivity

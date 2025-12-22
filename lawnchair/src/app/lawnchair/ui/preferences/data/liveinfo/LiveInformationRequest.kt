@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.data.liveinfo
+package com.jeremy.lawnchair.ui.preferences.data.liveinfo
 
 import android.util.Log
 import app.lawnchair.ui.preferences.data.liveinfo.model.LiveInformation

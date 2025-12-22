@@ -1,4 +1,4 @@
-package app.lawnchair.search.algorithms.engine.provider.web
+package com.jeremy.lawnchair.search.algorithms.engine.provider.web
 
 import android.net.Uri
 import android.util.Log

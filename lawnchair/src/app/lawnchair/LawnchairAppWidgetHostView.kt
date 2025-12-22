@@ -1,4 +1,4 @@
-package app.lawnchair
+package com.jeremy.lawnchair
 
 import android.appwidget.AppWidgetProviderInfo
 import android.content.Context

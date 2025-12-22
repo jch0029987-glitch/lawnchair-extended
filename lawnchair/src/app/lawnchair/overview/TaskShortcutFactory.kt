@@ -1,3 +1,3 @@
-package app.lawnchair.overview
+package com.jeremy.lawnchair.overview
 
 object TaskShortcutFactory

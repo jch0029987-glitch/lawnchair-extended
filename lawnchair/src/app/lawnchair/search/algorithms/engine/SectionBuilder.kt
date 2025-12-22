@@ -1,4 +1,4 @@
-package app.lawnchair.search.algorithms.engine
+package com.jeremy.lawnchair.search.algorithms.engine
 
 import android.content.Context
 import app.lawnchair.preferences2.PreferenceManager2

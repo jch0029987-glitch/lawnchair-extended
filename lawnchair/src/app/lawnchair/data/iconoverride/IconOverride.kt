@@ -1,4 +1,4 @@
-package app.lawnchair.data.iconoverride
+package com.jeremy.lawnchair.data.iconoverride
 
 import androidx.room.Embedded
 import androidx.room.Entity

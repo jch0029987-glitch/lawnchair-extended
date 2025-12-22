@@ -1,4 +1,4 @@
-package app.lawnchair.backup.ui
+package com.jeremy.lawnchair.backup.ui
 
 import android.app.Activity
 import android.app.WallpaperManager

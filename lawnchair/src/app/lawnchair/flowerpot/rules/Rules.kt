@@ -15,7 +15,7 @@
  *     along with Lawnchair Launcher.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package app.lawnchair.flowerpot.rules
+package com.jeremy.lawnchair.flowerpot.rules
 
 sealed class Rules {
     data object None : Rules()

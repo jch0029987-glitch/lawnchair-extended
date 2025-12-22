@@ -1,4 +1,4 @@
-package app.lawnchair.search.algorithms
+package com.jeremy.lawnchair.search.algorithms
 
 import android.app.search.Query
 import android.app.search.SearchContext

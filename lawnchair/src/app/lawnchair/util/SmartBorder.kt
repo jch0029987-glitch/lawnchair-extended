@@ -16,7 +16,7 @@
 
 // Adapted from https://gist.github.com/Gowsky/4613829b2e94c846a5bbcd41367662d9.
 
-package app.lawnchair.util
+package com.jeremy.lawnchair.util
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.ui.Modifier

@@ -1,4 +1,4 @@
-package app.lawnchair.util
+package com.jeremy.lawnchair.util
 
 import android.annotation.SuppressLint
 import android.util.Log

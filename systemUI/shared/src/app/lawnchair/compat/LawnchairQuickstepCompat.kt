@@ -1,4 +1,4 @@
-package app.lawnchair.compat
+package com.jeremy.lawnchair.compat
 
 import android.os.Build
 import androidx.annotation.ChecksSdkIntAtLeast

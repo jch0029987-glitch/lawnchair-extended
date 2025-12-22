@@ -1,4 +1,4 @@
-package app.lawnchair.theme.color
+package com.jeremy.lawnchair.theme.color
 
 import android.content.Context
 import app.lawnchair.theme.color.tokens.ColorTokens

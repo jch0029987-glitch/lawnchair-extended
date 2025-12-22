@@ -1,4 +1,4 @@
-package app.lawnchair.ui.preferences.components
+package com.jeremy.lawnchair.ui.preferences.components
 
 import androidx.compose.foundation.interaction.MutableInteractionSource
 import androidx.compose.runtime.Composable

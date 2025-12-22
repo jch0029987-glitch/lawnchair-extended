@@ -1,4 +1,4 @@
-package app.lawnchair.backup
+package com.jeremy.lawnchair.backup
 
 import android.annotation.SuppressLint
 import android.app.WallpaperManager

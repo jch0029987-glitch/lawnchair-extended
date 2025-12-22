@@ -1,4 +1,4 @@
-package app.lawnchair.search
+package com.jeremy.lawnchair.search
 
 import android.content.SearchRecentSuggestionsProvider
 import com.android.launcher3.BuildConfig

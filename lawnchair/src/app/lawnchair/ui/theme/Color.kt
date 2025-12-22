@@ -1,4 +1,4 @@
-package app.lawnchair.ui.theme
+package com.jeremy.lawnchair.ui.theme
 
 import android.content.Context
 import android.graphics.Color

@@ -1,4 +1,4 @@
-package app.lawnchair.search.algorithms.data
+package com.jeremy.lawnchair.search.algorithms.data
 
 data class Calculation(
     val equation: String,

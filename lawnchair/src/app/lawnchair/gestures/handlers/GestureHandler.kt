@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair.gestures.handlers
+package com.jeremy.lawnchair.gestures.handlers
 
 import android.content.Context
 import app.lawnchair.LawnchairLauncher

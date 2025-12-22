@@ -1,4 +1,4 @@
-package app.lawnchair.allapps
+package com.jeremy.lawnchair.allapps
 
 import android.content.Context
 import android.util.Log
