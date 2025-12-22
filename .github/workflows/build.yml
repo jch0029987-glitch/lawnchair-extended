@@ -2,7 +2,7 @@ name: Build Lawnchair Extended APK
 
 on:
   push:
-    branches: [ main, my-dev-branch ]
+    branches: [ my-dev-branch, main ]
   workflow_dispatch:
 
 jobs:
@@ -24,21 +24,21 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
 
-      - name: List all available assemble tasks (to find the correct one)
-        run: ./gradlew tasks --all | grep -i assemble
+      - name: List available assemble tasks (debug)
+        run: ./gradlew tasks --all | grep assemble
 
-      - name: Build standard debug APK (most Lawnchair forks use this)
-        run: ./gradlew assembleDebug
+      - name: Build main launcher APK
+        run: ./gradlew assemblePlawnchairDebug
 
-      - name: Show exactly where APKs were built
-        run: find . -name "*.apk" -type f || echo "No APK found"
+      - name: Show built APKs
+        run: find . -name "*.apk" -type f
 
-      - name: Upload any APK found
+      - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Lawnchair-Extended.apk
+          name: Lawnchair-Extended-debug.apk
           path: |
+            lawnchair/build/outputs/apk/plawnchair/debug/lawnchair-plawnchair-debug.apk
+            lawnchair/build/outputs/apk/**/debug/*.apk
             **/build/outputs/apk/**/debug/*.apk
-            **/build/outputs/apk/debug/*.apk
-            **/build/outputs/apk/**/*.apk
           if-no-files-found: warn
