@@ -24,21 +24,20 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
 
-      - name: List available assemble tasks (debug)
-        run: ./gradlew tasks --all | grep assemble
+      - name: List available assemble tasks (for reference)
+        run: ./gradlew tasks --all | grep -i assemble
 
       - name: Build main launcher APK
-        run: ./gradlew assemblePlawnchairDebug
+        run: ./gradlew assembleDebug  # Correct for Lawnchair 15
 
       - name: Show built APKs
-        run: find . -name "*.apk" -type f
+        run: find . -name "*.apk" -type f || echo "No APK found"
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
           name: Lawnchair-Extended-debug.apk
           path: |
-            lawnchair/build/outputs/apk/plawnchair/debug/lawnchair-plawnchair-debug.apk
-            lawnchair/build/outputs/apk/**/debug/*.apk
+            lawnchair/build/outputs/apk/debug/*.apk
             **/build/outputs/apk/**/debug/*.apk
           if-no-files-found: warn
